@@ -58,7 +58,7 @@ bookNames.forEach(item => {
         author: 'Ceylan Baysal'
     };
     bookCover[item] = {
-        src: '../images/images.jpeg'
+        src: 'images/images.jpeg'
     }
 })
 
