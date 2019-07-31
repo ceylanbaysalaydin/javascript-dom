@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    background-color: antiquewhite;
+    background-image: url(../images/Books-Background.jpg);
+    background-size: cover;
+    font-family: 'Monda', sans-serif;
+
+
+}
+
+.box {
+    display: inline-block;
+    /* background-color: rgba(177, 114, 71,.2); */
+    background-color: rgba(130, 125, 97, .6);
+    padding: 10% 15%;
+
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+h3 {
+    margin: 15%;
+    text-transform: capitalize;
+    line-height: 3;
+}
+
+h3:hover {
+    text-decoration: underline;
+}
+
+ul {
+    border-left: 10px dotted white;
+}
+
+li {
+    text-align: left;
+    list-style: none;
+    padding: 5%;
+
+}
+
+.hidden {
+    display: none;
+}
